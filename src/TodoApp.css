@@ -1,0 +1,29 @@
+.app {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+.appTitle {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background: #e0dae5;
+  height: 200px;
+  width: 60%;
+
+  text-align: center;
+  font-family: fantasy;
+  font-size: 36pt;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+  font-size: 24pt;
+}
