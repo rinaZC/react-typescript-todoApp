@@ -2,4 +2,8 @@
 
 Practice using React with Typescript
 
-![Final Result]("./public/screen-shot.png")
+Final result :heart:
+
+<p align="center">
+  <img src="./public/screen-shot.png"/>
+</p>
